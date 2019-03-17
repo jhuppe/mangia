@@ -12,8 +12,7 @@
 - [ ] Display API response in individual cards
 - [ ] Responsive design
 - [ ] Auto-suggest when searching
-- [ ] Automated testing
 - [ ] Handling errors
 
 ## License
-[MIT](https://github.com/jhuppe/react_book_search/blob/master/LICENSE)
+[MIT](https://github.com/jhuppe/recipe_locator/blob/master/LICENSE)
