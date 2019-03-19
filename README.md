@@ -9,10 +9,10 @@
 ###### Ready! Go to: [http://localhost:3000](http://localhost:3000)
 
 ## To Do
-- [ ] Display API response in individual cards
-- [ ] Responsive design
+- [X] Display API response in individual cards
+- [X] Responsive design
 - [ ] Auto-suggest when searching
-- [ ] Handling errors
+- [X] Handling errors
 
 ## License
 [MIT](https://github.com/jhuppe/recipe_locator/blob/master/LICENSE)
