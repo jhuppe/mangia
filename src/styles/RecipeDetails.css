@@ -1,4 +1,5 @@
-.recipe-info {
+.recipe-details {
+  display: flex;
   position: absolute;
   left: 29%;
   width: 40%;
@@ -8,15 +9,15 @@
   margin: 0 0.5em;
 }
 
-.recipe-info h2, a, a:visited, a:hover, a:active{
+.recipe-details h2, a, a:visited, a:hover, a:active{
   color: white;
 }
 
-.recipe-info a, .health-label {
+.recipe-details a, .health-label {
   font-family: "Cabin", sans-serif;
 }
 
-.recipe-info h2 {
+.recipe-details h2 {
   margin-top: 0;
   margin-bottom: 0;
   font-family: "Josefin Sans", sans-serif;
@@ -27,7 +28,7 @@
   line-height: 1.5em;
 }
 
-.recipe-info a {
+.recipe-details a {
   font-size: 1em;
   position: absolute;
   left: 0;
@@ -55,39 +56,44 @@
 
 }
 
+.ingredients {
+  font-size: 12px;
+  color: white;
+}
+
 @media only screen and (max-width: 961px) {
-  .recipe-info {
+  .recipe-details {
     left: 33%;
     width: 36%;
   }
 
-  .recipe-info h2 {
+  .recipe-details h2 {
     font-size: 1.1em;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 0.9em;
   }
 
 }
 
 @media only screen and (max-width: 831px) {
-  .recipe-info {
+  .recipe-details {
     left: 30%;
     width: 39%;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 0.8em;
   }
 }
 
 @media only screen and (max-width: 741px) {
-  .recipe-info {
+  .recipe-details {
     width:36%;
   }
 
-  .recipe-info h2 {
+  .recipe-details h2 {
     font-size: 0.9em;
   }
 
@@ -95,23 +101,23 @@
     font-size: 7px;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 0.7em;
   }
 
 }
 
 @media only screen and (max-width: 651px) {
-  .recipe-info {
+  .recipe-details {
     left: 47%;
     width: 51%;
   }
 
-  .recipe-info h2 {
+  .recipe-details h2 {
     font-size: 1.2em;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 1em;
     margin-left:0.5em;
     left: 0;
@@ -119,26 +125,26 @@
 }
 
 @media only screen and (max-width: 501px) {
-  .recipe-info {
+  .recipe-details {
     left: 48%;
     width: 49%;
   }
 
-  .recipe-info h2 {
+  .recipe-details h2 {
     font-size: 1.1em;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 0.7em;
   }
 }
 
 @media only screen and (max-width: 420px) {
-  .recipe-info {
+  .recipe-details {
     left: 47%;
   }
 
-  .recipe-info h2 {
+  .recipe-details h2 {
     font-size: 0.9em;
   }
 
@@ -146,7 +152,7 @@
     font-size: 6px;
   }
 
-  .recipe-info a {
+  .recipe-details a {
     font-size: 0.6em;
     margin-left: 0.7em;
   }

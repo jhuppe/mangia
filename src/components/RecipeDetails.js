@@ -12,13 +12,19 @@ const RecipeDetails = props => {
         });
     }
     return (
-        <div className="recipe-info">
+        <div className="recipe-details">
             <h2 className="title">{props.title}</h2>
             <div className="health-labels">{healthLabels}</div>
+            <div className="ingredients">{props.ingredients}</div>
             <a target="_blank noopener noreferrer" href={props.url}>Get Recipe!</a>
         </div>
     );
 }
+
+RecipeDetails.defaultProps = {
+    healthLabels: null,
+    ingredients: null
+};
 
 RecipeDetails.propTypes = {
     title: PropTypes.string.isRequired,
