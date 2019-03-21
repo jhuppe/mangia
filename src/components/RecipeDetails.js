@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Ingredients from "./Ingredients"
 
 import '../styles/RecipeDetails.css';
 
@@ -11,13 +12,14 @@ const RecipeDetails = props => {
             return (<span key={i} className="health-label">{label}</span>);
         });
     }
+  let modal = props.ingredients ? <Ingredients ingredients={props.ingredients} /> : null;
     return (
-        <div className="recipe-details">
-            <h2 className="title">{props.title}</h2>
-            <div className="health-labels">{healthLabels}</div>
-            <div className="ingredients">{props.ingredients}</div>
-            <a target="_blank noopener noreferrer" href={props.url}>Get Recipe!</a>
-        </div>
+      <div className="recipe-details">
+        <h2 className="title">{props.title}</h2>
+        <div className="health-labels">{healthLabels}</div>
+        <a target="_blank noopener noreferrer" href={props.url}>View Recipe</a>
+        {modal}
+      </div>
     );
 }
 

@@ -11,8 +11,9 @@
 ## To Do
 - [X] Display API response in individual cards
 - [X] Responsive design
-- [ ] Auto-suggest when searching
+- [X] Add ingredient modal for recipes
 - [X] Handling errors
+- [ ] Auto-suggest when searching
 
 ## License
 [MIT](https://github.com/jhuppe/recipe_locator/blob/master/LICENSE)
