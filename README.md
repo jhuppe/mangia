@@ -4,7 +4,7 @@
 
 # Local set up
 ###### Ensure that all of the above technologies are available on your local machine
-1. Run `git clone https://github.com/jhuppe/recipe_locator && cd recipe_locator && yarn install`
+1. Run `git clone https://github.com/jhuppe/mangia && cd mangia && yarn install`
 2. Start the app by running `yarn start`
 ###### Ready! Go to: [http://localhost:3000](http://localhost:3000)
 
@@ -16,4 +16,4 @@
 - [ ] Auto-suggest when searching
 
 ## License
-[MIT](https://github.com/jhuppe/recipe_locator/blob/master/LICENSE)
+[MIT](https://github.com/jhuppe/mangia/blob/master/LICENSE)
