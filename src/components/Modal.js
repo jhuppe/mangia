@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import '../styles/Modal.css';
+import '../stylesheets/Modal.scss';
 
 class Modal extends Component {
     constructor(props) {

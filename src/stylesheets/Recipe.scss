@@ -1,0 +1,31 @@
+@import "config";
+
+.recipe {
+  display:grid;
+  border: 50px solid rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.3);
+  min-height: 320px;
+  position: relative;
+  width: 100%;
+  box-sizing:border-box;
+  overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+li {
+  list-style: none;
+}
+
+
+li img {
+  position: relative;
+  bottom:0;
+  top:0;
+  float:left;
+  width: 27%;
+  height: 100%;
+  margin-left: 0;
+  box-sizing: border-box;
+  border-radius: 10%;
+}

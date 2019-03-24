@@ -1,0 +1,724 @@
+[
+    {
+        "recipe": "Freezer Taco Kit recipes",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Twice-as-Nice Guapo Taco",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Vegetarian Taco Chili",
+        "category": "soup",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Taco Potatoes",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Fresh Tuna Tacos",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Carne Asada Tacos",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Tacos al Pastor",
+        "category": "taco",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Slow-Cooker Taco Soup",
+        "category": "soup",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Beef Taco Salad",
+        "category": "salad",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "French Fries",
+        "category": "potato"
+    },
+    {
+        "recipe": "Hashbrown",
+        "category": "potato"
+    },
+    {
+        "recipe": "Roasted Potatoes",
+        "category": "potato"
+    },
+    {
+        "recipe": "Roasted Potato Fries",
+        "category": "potato"
+    },
+    {
+        "recipe": "Mashed Potatoes",
+        "category": "potato"
+    },
+    {
+        "recipe": "Margarita Pizza With Fresh Mozzarella & Basil",
+        "category": "pizza",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Breakfast Pizza",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Pizza Dough",
+        "category": "pizza",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Grilled BLT Pizza Recipe",
+        "category": "pizza",
+        "cuisine": "american"
+    },
+    {
+        "recipe": "Thai Fried Rice",
+        "category": "rice",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Thai Red Curry With Roasted Duck",
+        "category": "curry",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Singapore Noodles",
+        "category": "noodles",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Pad Thai",
+        "category": "noodles",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Pasta",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Tomato Basil",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Garlic Pasta",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Lasagna",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Gnocci",
+        "category": "potato",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Red Pepper Pasta",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Pesto Pasta",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Macaroni and Cheese",
+        "category": "pasta"
+    },
+    {
+        "recipe": "Alfredo",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Spaghetti Squash",
+        "category": "pasta",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Potstickers",
+        "category": "dumplings",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Burrito",
+        "category": "burrito",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Breakfast Burrito",
+        "category": "burrito",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Burrito Bowl",
+        "category": "burrito",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Guacamole",
+        "category": "dip",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Tapenade",
+        "category": "dip",
+        "cuisine": "french"
+    },
+    {
+        "recipe": "Salsa",
+        "category": "dip",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Fresh Salsa",
+        "category": "dip",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Pesto",
+        "category": "sauce",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Nachos",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Quesadillas",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Enchiladas",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Steak Fajitas",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Shrimp Fajitas",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Tortilla",
+        "category": "bread",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Chicken Teriyaki Bowl",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Apple Crisp",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Pie",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Banana Bread",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Sugar Cookies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Brownies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Ice Cream",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Gingersnap Cookies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Cupcakes",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Coffee Cake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Red Velvet Cake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Cheesecake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Chocolate Cheesecake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Lava Cake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Chocolate Cupcakes",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Mug Cake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Vanilla Cupcakes",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Blueberry Pancakes",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Chocolate Chip Cookies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "French Toast",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Strawberry Shortcake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Oat Bars"
+    },
+    {
+        "recipe": "Granola"
+    },
+    {
+        "recipe": "Crepes"
+    },
+    {
+        "recipe": "Waffles",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Zucchini Noodles"
+    },
+    {
+        "recipe": "Kung Pao Chicken",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Garlic Bread",
+        "category": "bread",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Bruschetta",
+        "category": "bread",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Flatbread",
+        "category": "bread"
+    },
+    {
+        "recipe": "Caprese",
+        "category": "salad",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Mediterranean Flatbread",
+        "category": "bread"
+    },
+    {
+        "recipe": "Spring Rolls",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Sushi",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Hamburger",
+        "category": "sandwich",
+        "cuisine": "american"
+    },
+    {
+        "recipe": "Falafel"
+    },
+    {
+        "recipe": "Avocado Toast",
+        "category": "sandwich"
+    },
+    {
+        "recipe": "Lamb Curry",
+        "cuisine": "indian"
+    },
+    {
+        "recipe": "Chicken Biryani"
+    },
+    {
+        "recipe": "Roasted Cauliflower"
+    },
+    {
+        "recipe": "Chicken Tikka Masala",
+        "cuisine": "indian"
+    },
+    {
+        "recipe": "Minestrone",
+        "category": "soup",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Egg Drop Soup",
+        "category": "soup",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Chicken Noodle",
+        "category": "soup"
+    },
+    {
+        "recipe": "Tomato Soup",
+        "category": "soup",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Roasted Tomato Soup",
+        "category": "soup",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Vegetable Soup",
+        "category": "soup"
+    },
+    {
+        "recipe": "Thai Curry Soup",
+        "category": "soup",
+        "cuisine": "asian"
+    },
+    {
+    "recipe": "Red Curry",
+    "cuisine": "asian"
+    },
+    {
+        "recipe": "Masaman Curry",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Panang Curry",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Avocado Salad",
+        "category": "salad"
+    },
+    {
+        "recipe": "Thai Salad",
+        "category": "salad",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Chopped Salad",
+        "category": "salad"
+    },
+    {
+        "recipe": "Naan",
+        "category": "bread",
+        "cuisine": "indian"
+    },
+    {
+        "recipe": "Roasted Asparagus",
+        "category": "greens"
+    },
+    {
+        "recipe": "Zucchini Chips",
+        "category": "greens"
+    },
+    {
+        "recipe": "Curly Fries",
+        "category": "Potatoes"
+    },
+    {
+        "recipe": "Smoothie",
+        "category": "drink"
+    },
+    {
+        "recipe": "Milkshake",
+        "category": "drink"
+    },
+    {
+        "recipe": "Grilled Cheese",
+        "category": "sandwich"
+    },
+    {
+        "recipe": "Parmesan"
+    },
+    {
+        "recipe": "Nacho Cheese"
+    },
+    {
+        "recipe": "Calzone",
+        "category": "pizza",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Wontons"
+    },
+    {
+        "recipe": "Samosas",
+        "cuisine": "indian"
+    },
+    {
+        "recipe": "Dumplings",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Gyoza",
+        "category": "dumplings",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Churros",
+        "category": "dessert",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Scones",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Muffins",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Chocolate Muffins",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Cinnamon Rolls",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Tahini",
+        "category": "sauce"
+    },
+    {
+        "recipe": "Beef Flautas",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Clam Chowder",
+        "category": "soup"
+    },
+    {
+        "recipe": "Beef Ramen",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Blueberry Muffins",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Beef Stroganoff"
+    },
+    {
+        "recipe": "Broccoli and Beef", 
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Apple Pie",
+        "category": "dessert"
+    },
+
+    {
+        "recipe": "Donuts",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Doughnuts",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Pumpkin Cheesecake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Vegetable Stew",
+        "category": "soup"
+    },
+    {
+        "recipe": "Strawberry Sorbet",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Chocolate Cake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Spaghetti and Meatballs"
+    },
+    {
+        "recipe": "Strawberry Cheesecake",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Snickerdoodle Cookies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Latkes",
+        "category": "potato"
+    },
+    {
+        "recipe": "Bagel",
+        "category": "bread"
+    },
+    {
+        "recipe": "Frappuccino",
+        "category": "drink"
+    },
+    {
+        "recipe": "Pakoras",
+        "cuisine": "indian"
+    },
+
+    {
+        "recipe": "Sticky Rice",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Queso",
+        "category": "dip",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Chiles Rellenos",
+        "cuisine": "mexican"
+    },
+
+    {
+        "recipe": "Sorbet",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Macaroons",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Pizza",
+        "cuisine": "italian"
+    },
+    {
+        "recipe": "Oatmeal Raisin Cookies",
+        "category": "dessert"
+    },
+    {
+        "recipe": "Overnight Oats",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Paneer",
+        "cuisine": "indian"
+    },
+    {
+        "recipe": "Mango Smoothie",
+        "category": "drink"
+    },
+    {
+        "recipe": "Omelet",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Omelette",
+        "category": "breakfast"
+    },
+    {
+        "recipe": "Kombucha",
+        "category": "drink"
+    },
+    {
+        "recipe": "Macaroni Salad",
+        "category": "pasta"
+    },
+    {
+        "recipe": "Barbacoa",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Flan",
+        "category": "dessert",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Ceviche",
+        "cuisine": "mexican"
+    },
+    {
+      "recipe": "Steak",
+      "cuisine": "american"
+    },
+    {
+        "recipe": "Corned Beef and Cabbage",
+        "cuisine": "irish"
+    },
+    {
+        "recipe": "Chorizo with Eggs",
+        "category": "breakfast",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Salmon",
+        "category": "seafood"
+    },
+    {
+        "recipe": "Beef Shortribs",
+        "cuisine": "american"
+    },
+    {
+        "recipe": "Picadillo",
+        "cuisine": "mexican"
+    },
+    {
+        "recipe": "Asian Lettuce Wraps",
+        "cuisine": "asian"
+    },
+    {
+        "recipe": "Pot Roast",
+        "category": "dinner",
+        "cuisine": "american"
+    },
+    {
+    "recipe": "Flank Steak",
+    "category": "dinner",
+    "cuisine": "american"
+    },
+    {
+    "recipe": "Filet Mignon",
+    "category": "dinner",
+    "cuisine": "american"
+    },
+    {
+    "recipe": "Meatball Sandwich",
+    "category": "lunch",
+    "cuisine": "italian"
+    }
+]

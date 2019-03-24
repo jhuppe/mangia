@@ -1,0 +1,184 @@
+//Widescreens
+@include mediaXl {
+  #edamam-api {
+    position: absolute;
+    margin-bottom: 0;
+  }
+
+  .ingredients-button {
+    left: 38%;
+    font-size: 0.9em;
+  }
+  
+  li img {
+  width: 31%;
+  }
+  
+  .recipe-details {
+    left: 33%;
+    width: 36%;
+
+    h2 {
+      font-size: 1.1em;
+    }
+
+    a {
+      font-size: 0.9em;
+    }
+  }
+  
+  .recipe-wrapper {
+    width: 35em;
+  }
+}
+
+//Desktops & Laptops
+@include mediaLg {
+  .ingredients-button {
+    left: 32%;
+    font-size: 0.8em;
+  }
+  
+  .recipe {
+    min-height: 275px;
+    border-width: 35px;
+  }
+
+  li img {
+    width: 30%;
+  }
+  
+  .recipe-details {
+    left: 30%;
+    width: 39%;
+
+    a {
+      font-size: 0.8em;
+    }
+  }
+  
+  .recipe-wrapper {
+    width: 25em;
+  }
+}
+
+// Tablets & Small Laptops
+@include mediaMd {
+  #edamam-api {
+    font-size: 10px;
+  }
+  
+  .ingredients-button {
+    font-size: 1em;
+    left: 50%;
+  }
+  
+  .modal {
+    width: auto;
+  }
+  
+  .recipe {
+    min-height: 400px;
+  }
+
+  li img {
+    width: 45%;
+    height: 55%;
+  }
+  
+  .recipe-details {
+    left: 47%;
+    width: 51%;
+
+    h2 {
+      font-size: 1.2em;
+    }
+    a {
+      font-size: 1em;
+      margin-left:0.5em;
+      left: 0;
+    }
+  }
+
+  .recipe-wrapper {
+    width: 20em;
+  }
+}
+
+// Smartphones
+@include mediaSm{
+#edamam-api {
+    display: none;
+  }
+  .ingredients-button {
+    font-size: 0.7em;
+  }
+
+  .ingredients-list label {
+    font-size: 0.75em;
+  }
+  
+  .ingredients  {
+    height: 11px;
+    width: 11px;
+
+    h1 {
+      font-size: 1.75em;
+    }
+  }
+  
+  .ingredients label :after {
+    left: 3px;
+    top: 1px;
+  }
+  
+  .ingredients label {
+    margin-left: 20px;
+  }
+  
+  .modal-backdrop {
+    padding: 1%;
+  }
+  
+  .modal {
+    width: 320px;
+  }
+  
+  .recipe {
+    min-height: 375px;
+  }
+  
+  li img {
+    width: 48%;
+    height: 50%;
+  }
+  
+  .recipe-details {
+    left: 48%;
+    width: 49%;
+
+    h2 {
+      font-size: 1.1em;
+    }
+
+    a {
+      font-size: 0.7em;
+    }
+  }
+  .recipe-wrapper {
+    width: 20em;
+  }
+  .react-autosuggest__input {
+    width: 20em;
+  }
+  .react-autosuggest__container--open .react-autosuggest__suggestions-container {
+    width: 20em;
+  }
+}
+
+
+
+
+
+
+

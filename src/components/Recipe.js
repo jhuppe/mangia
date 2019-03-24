@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import RecipeDetails from './RecipeDetails';
-import '../styles/Recipe.css';
+import '../stylesheets/Recipe.scss';
 
 const Recipe = props => {
     return (
@@ -15,7 +15,6 @@ const Recipe = props => {
             />
         </li>
     );
-    
 };
 
 Recipe.propTypes = {

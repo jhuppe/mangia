@@ -1,3 +1,5 @@
+@import "config";
+
 .app {
   text-align: center;
 }
@@ -11,7 +13,7 @@ img {
 }
 
 .app .header h1 {
-  font-family: "Hi Melody", sans-serif;
+  font-family: $primary-font;
   font-size: 7em;
   line-height: 0;
   margin-top:0.5em;
@@ -20,7 +22,7 @@ img {
 }
 
 .app p {
-  font-family: "Gill Sans", sans-serif;
+  font-family: $primary-font;
   font-weight: 200;
   font-size: 0.8em;
 }
@@ -37,7 +39,7 @@ img {
 }
 
 .app .loading {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: $primary-font;
   color: white;
   font-size: 1.5em;
   background-color: rgba(0, 0, 0, 0.3);
@@ -45,13 +47,4 @@ img {
   width: 7em;
 }
 
-@media only screen and (max-width: 420px) {
-  .app .heading h1 {
-    font-size: 6em;
-  }
-
-  .app p {
-    font-size: 0.7em;
-  }
-}
 

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import SearchAssist from './SearchAssist';
 
-import '../styles/SearchBox.css';
+import '../stylesheets/SearchBox.scss';
 
 const shuffleArray = (a) => {
     let temp;

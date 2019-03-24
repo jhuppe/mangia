@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import SearchBox from './components/SearchBox';
 import RecipeWrapper from './components/RecipeWrapper.js';
 
-import './App.css';
+import './stylesheets/main.scss';
 
 const appId = '652961ce';
 const apiKey = '1860a56c4ea74700a6bdd5cfe04a8814';
@@ -78,6 +78,28 @@ class App extends Component {
         });
       });
   }
+
+  componentDidMount() {
+    this.mounted = true;
+    fetch("../assets/suggestions.json")
+      .then(res => res.json())
+      .then((result) => {
+        if (this.mounted) {
+          this.setState({
+            suggestions: result
+          });
+        }
+      }, (error) => {
+        //if error occurs, keep suggestions an empty array
+        //autosuggest will not work, it will be a regular text input component
+        console.error("Sorry, an error occurred while trying to get suggestion data.");
+      });
+  }
+
+  componentWillUnmount() {
+    this.mounted = false;
+  }
+
 
   render() {
     let recipeWrapper;

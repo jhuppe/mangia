@@ -1,0 +1,79 @@
+@import "config";
+
+.ingredients {
+  font-family: 'Raleway', sans-serif;
+}
+
+.ingredients h1 {
+  margin: 0;
+}
+
+.ingredients-list, .ingredients-list-error {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  position:relative;
+  width:100%;
+  margin: auto;
+  margin-top: 1em;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ingredients-list {
+  grid-auto-rows: auto;
+}
+
+.ingredients-list-error {
+  grid-auto-rows: 1fr;
+}
+
+.ingredient {
+  box-sizing: border-box;
+  text-align: left;
+  width: 100%;
+}
+
+.ingredients-list-error .ingredient {
+  padding: 1em;
+}
+
+.ingredients-list label {
+  padding: 1em;
+}
+
+.ingredients {
+  top: 3px;
+  height: 15px;
+  width: 15px;
+}
+
+.ingredients-modal label:after {
+  left: 5px;
+  top: 3px;
+  width: 2px;
+  height: 5px;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.ingredients label {
+  display: block;
+  margin-left: 25px;
+}
+
+.ingredients-button {
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  border: none;
+}
+
+.ingredients-button {
+  position: absolute;
+  left: 55%;
+  bottom:0;
+  margin: 0 0.5em;
+  padding: 0.5em;
+  background-color: white;
+  border-radius: 10%;
+}

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import Modal from "./Modal";
 
-import "../styles/Ingredients.css";
+import "../stylesheets/Ingredients.scss";
 
 class Ingredients extends Component {
     constructor(props) {

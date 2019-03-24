@@ -3,7 +3,7 @@ import ErrorBoundary from "./ErrorBoundary";
 import Autosuggest from "react-autosuggest";
 import PropTypes from "prop-types";
 
-import "../styles/SearchAssist.css";
+import "../stylesheets/SearchAssist.scss";
 
 class SearchAssist extends Component {
   constructor(props) {

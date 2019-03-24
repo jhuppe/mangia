@@ -1,0 +1,10 @@
+@import "config";
+
+.recipe-wrapper {
+  width: 45em;
+  display: block;
+  position: relative;
+  margin: 3.2em auto;
+  margin-bottom: 0;
+  transition: margin 0.9s;
+}

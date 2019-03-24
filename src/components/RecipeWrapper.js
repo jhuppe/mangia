@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Recipe from './Recipe';
-import '../styles/RecipeWrapper.css';
+import '../stylesheets/RecipeWrapper.scss';
 
 const RecipeWrapper = props => {
     let recipe;

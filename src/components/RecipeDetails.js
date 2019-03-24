@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Ingredients from "./Ingredients"
 
-import '../styles/RecipeDetails.css';
+import '../stylesheets/RecipeDetails.scss';
 
 const RecipeDetails = props => {
     let healthLabels = null;

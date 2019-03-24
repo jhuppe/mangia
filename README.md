@@ -1,5 +1,6 @@
 # Tech Stack
 - [React](https://reactjs.org/docs/getting-started.html)
+- [React Auto-Suggest](https://react-autosuggest.js.org/)
 - [Yarn](https://yarnpkg.com/en/docs)
 
 # Local set up
