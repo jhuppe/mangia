@@ -116,7 +116,7 @@ class App extends Component {
     return (
       <div className="app">
         <div className="header">
-          <h1>MANGIA</h1>
+          <h1 className="app-title">MANGIA</h1>
           <p>Search for delicious recipes!</p>
         </div>
         <SearchBox

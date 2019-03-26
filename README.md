@@ -1,6 +1,7 @@
 # Tech Stack
 - [React](https://reactjs.org/docs/getting-started.html)
-- [React Auto-Suggest](https://react-autosuggest.js.org/)
+- [React Auto-Suggest](https://github.com/moroshko/react-autosuggest#installation)
+- [Sass](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 - [Yarn](https://yarnpkg.com/en/docs)
 
 # Local set up
@@ -14,7 +15,7 @@
 - [X] Responsive design
 - [X] Add ingredient modal for recipes
 - [X] Handling errors
-- [ ] Auto-suggest when searching
+- [X] Auto-suggest when searching
 
 ## License
 [MIT](https://github.com/jhuppe/mangia/blob/master/LICENSE)

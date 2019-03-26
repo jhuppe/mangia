@@ -10,7 +10,6 @@ const Recipe = props => {
             <RecipeDetails
                 title={props.title}
                 url={props.url}
-                healthLabels = {props.healthLabels}
                 ingredients = {props.ingredients}
             />
         </li>
@@ -21,7 +20,6 @@ Recipe.propTypes = {
     title: PropTypes.string,
     image: PropTypes.string,
     url: PropTypes.string,
-    healthLabels: PropTypes.array,
     ingredients: PropTypes.array
 };
 

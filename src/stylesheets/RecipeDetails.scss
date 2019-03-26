@@ -14,7 +14,7 @@
   color: white;
 }
 
-.recipe-details a, .health-label {
+.recipe-details a {
   font-family: 'Raleway', sans-serif;
 }
 
@@ -40,20 +40,4 @@
   text-decoration: none;
   border-radius: 10%;
   background-color: white;
-}
-
-.health-labels {
-  color: white;
-  text-align: left;
-}
-
-.health-label {
-  font-size: 9px;
-  float: left;
-  margin-right: 0.5em;
-  margin-top: 0.5em;
-  padding:4px;
-  border-radius: 10%;
-  background-color: black;
-
 }

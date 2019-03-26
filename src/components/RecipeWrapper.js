@@ -13,7 +13,6 @@ const RecipeWrapper = props => {
                 title={item.recipe.label}
                 image={item.recipe.image}
                 url={item.recipe.url}
-                healthLabels={item.recipe.healthlabels}
                 ingredients={item.recipe.ingredientLines}
             />
         );
